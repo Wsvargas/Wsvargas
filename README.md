@@ -1,79 +1,94 @@
-# 👋 ¡Hola! Soy Wsvargas
+# 👋 Hi there! I'm Willian Steven Vargas
 
-Soy un apasionado por la tecnología con experiencia en desarrollo de software, automatización, análisis de datos y sistemas distribuidos. Actualmente combino mis estudios en Ingeniería de Sistemas con proyectos reales que demuestran mi capacidad para resolver problemas, trabajar en equipo y adaptarme a nuevas tecnologías.
-
-## 💼 Perfil Profesional
-
-- 🎓 Estudiante de Ingeniería en Sistemas y Bachelor en IT (Australia)
-- 🧠 Enfocado en desarrollo backend, automatización, DevOps y análisis de datos
-- 🔧 Experiencia práctica con Python, JavaScript, Docker, HTML/CSS, SQL, Bash, entre otros
-- 🚀 He trabajado con arquitecturas distribuidas, APIs REST, scraping, procesamiento de correos, e integración de herramientas como OpenAI y Power BI
-- 🌐 Nivel intermedio-avanzado de inglés (IELTS/PTE en progreso)
-- 📊 Habilidades en inteligencia de negocios: Power BI, Qlik Sense y automatización de reportes
+I'm a Systems Engineering student from Ecuador 🇪🇨 with strong experience in **technical support**, **data automation**, and **business intelligence**. I’m passionate about using technology to solve real-world problems and constantly learning new tools to become a better professional. I'm currently open to **remote jobs**, internships, or freelance opportunities in the IT and data field.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 💼 Career Summary
 
-| Lenguajes           | Frameworks / Tecnologías          | Herramientas / Otros        |
-|---------------------|-----------------------------------|------------------------------|
-| Python, JavaScript  | Flask, Docker, TensorFlow, Keras  | Git, GitHub Actions, VSCode |
-| HTML, CSS, SCSS     | Node.js, Express, React (básico)  | Linux, EC2, Power Automate  |
-| SQL, Bash, Go, Perl | APIs REST, Webhooks, Githooks     | Microsoft 365, PostgreSQL   |
-
----
-
-## 🔥 Proyectos Destacados
-
-### 🔹 [Ituran-scarapin](https://github.com/Wsvargas/ituran)
-Automatización de procesamiento de correos para órdenes de instalación con scraping de datos desde HTML y PDF, guardado en TXT, CSV y Excel, con arquitectura modular en Python. Proyecto real para ITURAN Ecuador.
-
-> 🛠️ Stack: Python, BeautifulSoup, Pandas, Openpyxl, Microsoft Graph API
+- 🎓 Studying **Systems Engineering** at Universidad Central del Ecuador (2020–present)
+- 💻 Former **IT Assistant & BI Intern** at **Ituran**, where I automated data flows, created dashboards, and supported end-users
+- 🔧 Skilled in **Python**, **SQL**, **Power BI**, **PostgreSQL**, **Office 365**, and **automation with Power Automate**
+- 🤖 Interested in backend development, APIs, process automation, and artificial intelligence integration
+- 🌍 **Available immediately** – open to any type of contract (remote, freelance, part/full-time)
+- 🇬🇧 English level: Intermediate (actively improving)
 
 ---
 
-### 🔹 [Chatbot-Vet](https://github.com/Wsvargas/Chatbot-Vet)
-Chatbot de atención veterinaria basado en procesamiento de lenguaje natural y reglas para automatizar respuestas a preguntas frecuentes.
+## ⚙️ Skills
 
-> 💬 Stack: Python, lógica conversacional, pruebas con usuarios reales
-
----
-
-### 🔹 [Facialv2.1_CRN_TENSOR-KERAS](https://github.com/Wsvargas/Facialv2.1_CRN_TENSOR-KERAS)
-Reconocimiento facial usando TensorFlow/Keras aplicado a control de acceso en tiempo real.
-
-> 🤖 Stack: Python, TensorFlow, Keras, Computer Vision
+| Languages & DBs       | Tools & Frameworks             | Other Skills                      |
+|-----------------------|-------------------------------|------------------------------------|
+| Python, SQL, PHP      | Power BI, Qlik Sense, Docker  | Hardware & PC repair (Advanced)   |
+| PostgreSQL, MySQL     | Office 365, Power Automate    | Excel, ETL basics, SAP BI basics  |
+| Oracle Pro-C (basic)  | Pipefy, Git, APIs              | Customer Service, Process Mgmt    |
 
 ---
 
-### 🔹 [SistemaCitasDocker](https://github.com/Wsvargas/SistemaCitasDocker)
-Sistema web básico para agendar citas médicas en entorno Dockerizado, demostrando arquitectura de microservicios.
+## 🚀 Projects & Real-World Experience
 
-> ⚙️ Stack: HTML, Docker, integración modular
-
----
-
-### 🔹 [Ecommerce DAO/DTO + Docker](https://github.com/Wsvargas/ecommerce_dao_dto_abstract_docker)
-Simulación de backend para ecommerce implementando patrones DAO y DTO, dockerizado.
-
-> 🛒 Stack: HTML, POO, Docker, separación de capas
-
----
-
-## 📈 Estadísticas de GitHub
-
-- 📌 Más de 220 contribuciones en el último año
-- 🗂️ 30+ repositorios públicos activos
-- ✅ Uso de buenas prácticas: `commits`, `pull requests`, `documentación`, y más
+### 🔧 **Ituran – Email Automation & BI**
+**Role:** Intern – Systems Assistant & BI  
+**Tech:** Python, Graph API, Power BI, Qlik Sense, Office 365  
+**Impact:**  
+- Automated the extraction of structured data from emails (HTML & PDF)
+- Created dashboards for real-time monitoring and reporting
+- Integrated Power Automate flows to improve internal processes
+- Provided remote and in-person technical support
 
 ---
 
-## 📬 Contáctame
-
-- 📧 Email: *Disponible bajo solicitud*
-- 🌐 [LinkedIn](https://www.linkedin.com) *(actualízalo si tienes uno)*
-- 💡 Disponible para oportunidades de pasantías, soporte técnico, desarrollo backend, automatización y análisis de datos
+### 🤖 [Chatbot-Vet](https://github.com/Wsvargas/Chatbot-Vet)
+Developed a basic conversational assistant for veterinary clinics to automate frequently asked questions.  
+**Stack:** Python, logic-based NLP
 
 ---
 
-> *“Aprender, crear y compartir: ese es mi enfoque para crecer como profesional en tecnología.”*
+### 🧠 [Facialv2.1_CRN_TENSOR-KERAS](https://github.com/Wsvargas/Facialv2.1_CRN_TENSOR-KERAS)
+Facial recognition system using Keras & TensorFlow for real-time access control.  
+**Stack:** Python, TensorFlow, Keras
+
+---
+
+### 🛍 [E-commerce with DAO/DTO & Docker](https://github.com/Wsvargas/ecommerce_dao_dto_abstract_docker)
+Back-end structure for an e-commerce system applying architectural patterns and containerization.  
+**Stack:** HTML, Docker, modular architecture
+
+---
+
+## 📚 Education
+
+- 🎓 **Systems Engineering** – Universidad Central del Ecuador (2020–Present)
+- 🧰 **Computer Maintenance** – SECAP (2013)
+- 💾 **High School Diploma in Informatics** – Colegio Eloy Alfaro (2013)
+
+---
+
+## 🧠 Soft Skills
+
+- Proactive and results-oriented
+- Fast learner, committed to continuous improvement
+- Strong communication and teamwork
+- Adaptable to dynamic environments and remote collaboration
+
+---
+
+## 🌍 I’m Open To
+
+✅ Remote IT support roles  
+✅ Entry-level backend development  
+✅ Business intelligence internships  
+✅ Freelance automation and scripting projects
+
+---
+
+## 📫 Contact
+
+- 📩 Email: *Available upon request*
+- 🌐 LinkedIn: *Coming soon*
+- 📄 Resume/CV: [Click here to view or download](https://your-cv-link.com) *(optional)*
+
+---
+
+> *"I believe in learning every day, creating with purpose, and using technology to make processes smarter and people’s lives easier."*
+
